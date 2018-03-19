@@ -2,8 +2,6 @@
 
 Documentation  This is the Meetup + WeWork homepage
 Library  Selenium2Library
-Documentation  This is the Meetup + WeWork homepage
-Library  Selenium2Library
 
 *** Variables ***
 
